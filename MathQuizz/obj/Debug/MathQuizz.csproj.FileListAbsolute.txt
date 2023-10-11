@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\MathQuizz\bin\Debug\MathQuizz.exe.config
+C:\Users\LENOVO\source\repos\MathQuizz\bin\Debug\MathQuizz.exe
+C:\Users\LENOVO\source\repos\MathQuizz\bin\Debug\MathQuizz.pdb
+C:\Users\LENOVO\source\repos\MathQuizz\obj\Debug\MathQuizz.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\MathQuizz\obj\Debug\MathQuizz.Form1.resources
+C:\Users\LENOVO\source\repos\MathQuizz\obj\Debug\MathQuizz.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\MathQuizz\obj\Debug\MathQuizz.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\MathQuizz\obj\Debug\MathQuizz.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\MathQuizz\obj\Debug\MathQuizz.exe
+C:\Users\LENOVO\source\repos\MathQuizz\obj\Debug\MathQuizz.pdb
